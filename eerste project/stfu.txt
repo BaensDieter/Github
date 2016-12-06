@@ -1,7 +1,4 @@
 stfu
 meee zege slecht aangaan !!!
-<<<<<<< HEAD
 dafuqq
-=======
-dafuqq
->>>>>>> e9682e7873e991cd6b45693e08fc18b8d464a5b2
+
